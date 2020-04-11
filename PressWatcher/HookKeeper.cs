@@ -41,10 +41,16 @@ namespace PressWatcher
             else if (
                 Control.ModifierKeys == Keys.Control &&( e.KeyCode == Keys.LControlKey || e.KeyCode == Keys.RControlKey) ||
                 Control.ModifierKeys == Keys.Alt && (e.KeyCode == Keys.LMenu || e.KeyCode == Keys.RMenu) ||
-                Control.ModifierKeys == Keys.Shift && (e.KeyCode == Keys.LShiftKey|| e.KeyCode == Keys.RShiftKey)
+                Control.ModifierKeys == Keys.Shift && (e.KeyCode == Keys.LShiftKey|| e.KeyCode == Keys.RShiftKey) ||
+                e.KeyCode == Keys.LControlKey ||
+                e.KeyCode == Keys.RControlKey ||
+                e.KeyCode == Keys.LMenu ||
+                e.KeyCode == Keys.RMenu ||
+                e.KeyCode == Keys.LShiftKey ||
+                e.KeyCode == Keys.RShiftKey
                 )
             {
-                //only one modifier key down
+                //only modifier keys down
             }
             else
             {
