@@ -11,3 +11,5 @@
 目前只有简单功能，美观性也不是很好
 
 正在开发，欢迎指教
+
+![Image text](https://raw.githubusercontent.com/PiaoZhenJia/PressWatcher/master/screen_shoot.png)
