@@ -1,0 +1,11 @@
+E:\repos\PressWatcher\PressWatcher\bin\Debug\PressWatcher.exe.config
+E:\repos\PressWatcher\PressWatcher\bin\Debug\PressWatcher.exe
+E:\repos\PressWatcher\PressWatcher\bin\Debug\PressWatcher.pdb
+E:\repos\PressWatcher\PressWatcher\obj\Debug\PressWatcher.csprojAssemblyReference.cache
+E:\repos\PressWatcher\PressWatcher\obj\Debug\PressWatcher.Properties.Resources.resources
+E:\repos\PressWatcher\PressWatcher\obj\Debug\PressWatcher.csproj.GenerateResource.cache
+E:\repos\PressWatcher\PressWatcher\obj\Debug\PressWatcher.csproj.CoreCompileInputs.cache
+E:\repos\PressWatcher\PressWatcher\obj\Debug\PressWatcher.exe
+E:\repos\PressWatcher\PressWatcher\obj\Debug\PressWatcher.pdb
+E:\repos\PressWatcher\PressWatcher\obj\Debug\PressWatcher.MainForm.resources
+E:\repos\PressWatcher\PressWatcher\obj\Debug\PressWatcher.ChildForm.resources
